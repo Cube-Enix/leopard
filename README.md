@@ -1,3 +1,5 @@
+# Have not changed anything yet. This is a javascript library that allows for scratch-like operations in javascript via canvas. I have forked this because I wanted to add ustom block support.
+
 # Leopard
 
 ![Scratch translation example](./translation-example.png)
